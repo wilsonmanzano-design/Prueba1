@@ -1,0 +1,10 @@
+# .NET build outputs
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+.nuget/
+
+# VS Code
+.vscode/
